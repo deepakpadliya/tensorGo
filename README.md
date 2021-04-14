@@ -1,6 +1,6 @@
 # TensorGo Assignment
 
-# MicroServices to fetch the API and store the data in the Database
+# MicroService to fetch the API and store the data in the Database
 ### Fetch data from external API http://localhost:2222/fetch/user
 ![](images/s1.png)
 
